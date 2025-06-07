@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+</head>
+<hr>
+<body>
+<h1>Crystal Diaz</h1>
+<h2>Junior Frontend Developer</h2>
+<p>
+  10583 Wisteria Cir<br>
+    Santa Fe Springs, CA, 90670<br>
+    562-324-7150<br>
+    cmd.crystaldiaz@gmail.com  
+  </p>
+
+<h2>Skills</h2>
+<p>HTML, CSS, Javascript, Python  
+  </p>
+
+<h2>Education</h2>
+  <p>
+    California State University - Long Beach, B.S. Computer Science<br>
+       Aug. 2022 - Dec. 2024
+  </p>
+    
+<h2>
+  Experience
+  </h2>
+  <p>
+    Company Name, Location - Job Title<br>
+    Month 20xx - Month 20xx<br>
+    <ul>
+      <li>List of achievements</li>
+      <li>List of achievements</li>
+      <li>List of achievements</li>      
+  </ul>
+    Skills: list of skills gained or used at this company
+  </p>
+  
+  <p>
+    Across the internet: <a href="github.com/iochuu">Github</a>, <a href="https://www.linkedin.com/in/crystal-diaz-684971369/" >LinkedIn</a>
+  </p>
+  
+</body>
+</html>
